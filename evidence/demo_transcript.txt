@@ -1,0 +1,23 @@
+You: help
+StudyBot: I can explain HCI, explain a chatbot lifecycle, give testing tips, and plan a study session. Try: HCI, lifecycle, testing, or study plan. Use cancel to reset or bye to exit.
+
+You: What is HCI?
+StudyBot: HCI studies how people interact with computers. A clear interface gives feedback and helps users recover from errors.
+
+You: study plan
+StudyBot: How many minutes do you have? Enter 10 to 180, or cancel.
+
+You: ten
+StudyBot: Enter a whole number from 10 to 180 minutes, or cancel.
+
+You: 30
+StudyBot: For 30 minutes: review for 10, practice for 15, and recap for 5.
+
+You: ???
+StudyBot: Please type a question or enter help.
+
+You: weather tomorrow
+StudyBot: I do not recognize that request. Enter help for supported topics.
+
+You: bye
+StudyBot: Goodbye. Good luck with your studies!

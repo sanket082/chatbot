@@ -1,0 +1,19 @@
+test_ambiguous_topics (test_chatbot.StudyBotTests.test_ambiguous_topics) ... ok
+test_bad_minutes_keep_state (test_chatbot.StudyBotTests.test_bad_minutes_keep_state) ... ok
+test_cancel (test_chatbot.StudyBotTests.test_cancel) ... ok
+test_determinism (test_chatbot.StudyBotTests.test_determinism) ... ok
+test_exit (test_chatbot.StudyBotTests.test_exit) ... ok
+test_help_keeps_state (test_chatbot.StudyBotTests.test_help_keeps_state) ... ok
+test_malformed (test_chatbot.StudyBotTests.test_malformed) ... ok
+test_normalization (test_chatbot.StudyBotTests.test_normalization) ... ok
+test_plan (test_chatbot.StudyBotTests.test_plan) ... ok
+test_plan_boundaries (test_chatbot.StudyBotTests.test_plan_boundaries) ... ok
+test_session_isolation (test_chatbot.StudyBotTests.test_session_isolation) ... ok
+test_supported_prompts (test_chatbot.StudyBotTests.test_supported_prompts) ... ok
+test_unknown (test_chatbot.StudyBotTests.test_unknown) ... ok
+test_word_boundaries (test_chatbot.StudyBotTests.test_word_boundaries) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.001s
+
+OK
